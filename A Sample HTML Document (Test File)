@@ -1,0 +1,34 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0435-01_html5_download_attribute_demo/samp/htmldoc.html
+Subject: A Sample HTML Document (Test File)
+Date: Thu, 11 Mar 2021 23:41:08 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--ItBIY7cISdFt2626QnjezLQerD8vpe28p8YUKSVJmZ----"
+
+
+------MultipartBoundary--ItBIY7cISdFt2626QnjezLQerD8vpe28p8YUKSVJmZ----
+Content-Type: text/html
+Content-ID: <frame-343D33099FFBE3BB0068926ADE5B3BE4@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0435-01_html5_download_attribute_demo/samp/htmldoc.html
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>A Sample HTML Document (Test File)</title>
+
+<meta name="description" content="A blank HTML document for testing purposes.">
+<meta name="author" content="Six Revisions">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="http://sixrevisions.com/favicon.ico" type="image/x-icon">
+</head>
+<body>
+  
+<h1>A Sample HTML Document (Test File)</h1>
+<p>A blank HTML document for testing purposes.</p>
+<p><a href="https://www.webfx.com/blog/images/assets/cdn.sixrevisions.com/0435-01_html5_download_attribute_demo/html5download-demo.html">Go back to the demo</a></p>
+<p><a href="http://sixrevisions.com/html5/download-attribute/">Read the HTML5 download attribute guide</a></p>
+
+
+</body></html>
+------MultipartBoundary--ItBIY7cISdFt2626QnjezLQerD8vpe28p8YUKSVJmZ------
